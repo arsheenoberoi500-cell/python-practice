@@ -1,27 +1,30 @@
-Python Basics Practice 🐍
+# Python for Data Analysis 🐍
 
-This repository contains my Python practice exercises as I learn and strengthen my programming fundamentals.
+This repository contains my hands-on Python practice as I build my skills for Data Analysis.
 
-Topics Covered
-Basic Python syntax
-Variables and data types
-Arithmetic operations
-User input
-Comparison operators
-Floor division
-if, elif, and else statements
-for loops
-range() function
-Printing numbers within a range
-Even and odd numbers
-Basic problem-solving exercises
-File
-python_basics_practice.ipynb — Jupyter Notebook containing the practice exercises and outputs.
-Tools Used
-Python 3
-Google Colab / Jupyter Notebook
-Learning Goal
+## 📚 Topics Covered
 
-The purpose of this notebook is to build a strong foundation in Python before moving on to more advanced concepts and applying Python to data analysis.
+### Python Fundamentals
+- Variables
+- Data Types
+- Conditions
+- Loops
+- Functions
+- Strings
 
-This repository will be updated as I continue learning Python.
+### NumPy
+- Arrays
+- `ndim`
+- `shape`
+- Mathematical Operations
+- Statistical Operations
+
+## 🚧 Currently Learning
+
+- Pandas
+- Data Cleaning
+- Data Visualization
+
+## 🎯 Goal
+
+To build a strong foundation in Python and apply it to real-world data analysis projects.
